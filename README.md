@@ -2,12 +2,6 @@
 
 #### Este projeto realiza uma análise detalhada de notícias do mercado de 2016, utilizando diversas técnicas de processamento de linguagem natural (NLP) como tokenização, stemming, lematização, e reconhecimento de entidades (NER). O objetivo é explorar o conteúdo das notícias, identificar tópicos e criar visualizações para melhor entendimento dos dados.
 
-## Dependências
-
-As dependências do projeto estão listadas no arquivo `requirements.txt`. Para instalar todas as dependências necessárias, execute:
-
-```bash
-pip install -r requirements.txt
 Descrição do Projeto
 O projeto é dividido em várias etapas, cada uma responsável por uma parte específica da análise. Abaixo está uma descrição de cada etapa:
 
@@ -36,11 +30,12 @@ Criamos visualizações das distribuições de tópicos e nuvens de palavras par
 Geramos nuvens de entidades para cada tópico, destacando as organizações mencionadas nas notícias.
 
 Instruções para Execução
+
 Instale as dependências:
 
-bash
-Copiar código
+```
 pip install -r requirements.txt
+```
 Execute o notebook: Utilize um ambiente Jupyter Notebook para executar as células sequencialmente.
 
 Visualize os Resultados: As visualizações dos tópicos e entidades estarão disponíveis ao final da execução do notebook.
