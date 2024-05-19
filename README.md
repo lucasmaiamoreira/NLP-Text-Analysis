@@ -2,7 +2,7 @@
 
 #### Este projeto realiza uma análise detalhada de notícias do mercado de 2016, utilizando diversas técnicas de processamento de linguagem natural (NLP) como tokenização, stemming, lematização, e reconhecimento de entidades (NER). O objetivo é explorar o conteúdo das notícias, identificar tópicos e criar visualizações para melhor entendimento dos dados.
 
-Descrição do Projeto
+#### Descrição do Projeto
 O projeto é dividido em várias etapas, cada uma responsável por uma parte específica da análise. Abaixo está uma descrição de cada etapa:
 
 1. Carregamento e Filtragem de Dados
@@ -39,3 +39,12 @@ pip install -r requirements.txt
 Execute o notebook: Utilize um ambiente Jupyter Notebook para executar as células sequencialmente.
 
 Visualize os Resultados: As visualizações dos tópicos e entidades estarão disponíveis ao final da execução do notebook.
+
+#### Autor
+Este projeto foi desenvolvido por Lucas Maia Moreira.
+
+#### Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+#### Licença
+Este projeto está licenciado sob a Licença MIT.
