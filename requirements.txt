@@ -83,3 +83,4 @@ wasabi==1.1.2
 wcwidth==0.2.13
 weasel==0.3.4
 wordcloud==1.9.3
+kaggle==1.6.14
